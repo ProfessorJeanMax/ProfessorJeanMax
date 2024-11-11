@@ -56,7 +56,7 @@ Acredito em uma educação baseada em prática, empatia e tecnologia. Com experi
 
 - **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/jean-max-s-krebs/)
 - **GitHub**: [Seu GitHub](https://github.com/JeanMaxSKrebs)
-- **Portfólio**: [s Portfólio](https://jeanmaxskrebs.github.io/)
+- **Portfólio**: [Portfólio](https://jeanmaxskrebs.github.io/)
 - **E-mail**: [professor.jeanmax@gmail.com](professor.jeanmax@gmail.com)
 
 Seja você um aluno interessado em aprender mais sobre programação ou um profissional em busca de parcerias educacionais, sinta-se à vontade para entrar em contato!
