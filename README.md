@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Olá! Sou [Jean Max Simon Krebs], um professor apaixonado por ensinar e compartilhar o conhecimento em Lógica de Programação, JavaScript, Desenvolvimento Front-End e Back-End. Meu objetivo é transformar ideias complexas em conceitos fáceis e acessíveis para meus alunos, preparando-os para os desafios reais do mercado de trabalho.
+Olá! Sou Jean Max Simon Krebs, um professor apaixonado por ensinar e compartilhar o conhecimento em Lógica de Programação, JavaScript, Desenvolvimento Front-End e Back-End. Meu objetivo é transformar ideias complexas em conceitos fáceis e acessíveis para meus alunos, preparando-os para os desafios reais do mercado de trabalho.
 
 Acredito em uma educação baseada em prática, empatia e tecnologia. Com experiência em sala de aula e como desenvolvedor, busco sempre trazer exemplos práticos e atuais para enriquecer o aprendizado e fazer com que cada aluno sinta-se seguro e motivado a alcançar seu potencial.
 
