@@ -1,5 +1,5 @@
 
-# 👨‍🏫 Professor [Jean Max Simon Krebs]
+# 👨‍🏫 Professor Jean Max Simon Krebs
 
 🎓 **Professor de Tecnologia e Programação | Mentor | Desenvolvedor Full Stack**
 
